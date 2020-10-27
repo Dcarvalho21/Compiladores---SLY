@@ -1,0 +1,42 @@
+KEYWORD
+
+"class" - KEYWORD (CLASS)
+"String" - KEYWORD (STRING)
+"public" - KEYWORD (PUBLIC)
+"static" - KEYWORD (STATIC)
+"void" - KEYWORD (VOID)
+"main" - KEYWORD (MAIN)
+"extends" - KEYWORD (EXTENDS)
+"return" - KEYWORD (RETURN)
+"boolean" - BOOLEAN
+"int" - INT
+"if" - IF
+"else" - ELSE
+"while" - WHILE
+"System.out.println" - WRITE
+"true" - TRUE
+"false" - FALSE
+"this" - THIS
+"new" - NEW
+"length" - LENGTH
+
+
+"(" - LPAREN
+"[" - LBRACK
+"]" - RBRACK
+")" - RPAREN
+"{" - LBRACE
+"}" - RBRACE
+";" - SCOLON
+"," - COLON
+"=" - EQUAL
+"&&" - AND
+"<" - LESS
+"+" - PLUS
+"-" - MINUS
+"*" - TIMES
+"." - DOT
+"!" - NOT
+
+ID
+NUM
